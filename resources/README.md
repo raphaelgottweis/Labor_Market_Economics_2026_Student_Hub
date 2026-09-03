@@ -6,6 +6,11 @@
 - Nick Huntington-Klein, [*The Effect*](https://theeffectbook.net/): accessible explanations of research design and causal inference.
 - [Mastering 'Metrics resources](https://www.masteringmetrics.com/resources/): empirical examples and supporting material.
 
+## Learning and coding with AI
+
+- Eric J. Ma, [How AI turbocharges your learning](https://ericmjl.github.io/blog/2026/7/27/ai-turbocharges-learning/): recommended guide for using AI as a Socratic tutor and coding-learning partner rather than a shortcut.
+- Read the course's [responsible LLM-use guide](../guides/llm-use.md) before using AI for coding, writing, or research.
+
 ## Labor economics and policy
 
 - [IZA World of Labor](https://wol.iza.org/): short evidence-based articles on labor-market policy and institutions.
