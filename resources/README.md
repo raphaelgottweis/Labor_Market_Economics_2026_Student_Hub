@@ -1,5 +1,7 @@
 # Resources and readings
 
+See the [reading plan](reading-plan.md) for the one paper to read in advance for each session and the papers used as in-class evidence or optional extensions.
+
 ## Causal inference and empirical research
 
 - Scott Cunningham, [*Causal Inference: The Mixtape*](https://mixtape.scunning.com/): the main companion for the course's causal-inference session.
