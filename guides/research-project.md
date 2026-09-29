@@ -21,6 +21,8 @@ Use the [paper-reading guide](reading-paper.md) for the same template.
 
 Ask whether you can obtain the data, measure the core variables, observe enough relevant variation, and complete the analysis within the semester.
 
+Use the [data sources guide](../resources/data-sources.md) to distinguish sources you can start using immediately from sources that need instructor-supported access. By 15 October, bring one source link, its metadata, and one descriptive figure proposal.
+
 ## 4. Show the data before the regression
 
 Create one descriptive table or figure that makes the setting and sample understandable. If this is difficult, the project may not yet be sufficiently defined.

@@ -27,11 +27,13 @@ Copyrighted paper PDFs, restricted data, private student work, grades, and edita
 | Short paper | 35% |
 | Participation and paper discussions | 5% |
 
-Start with the [project roadmap](guides/research-project.md), then read the [assignment instructions](assignments/README.md).
+Start with the [project roadmap](guides/research-project.md), the [data sources guide](resources/data-sources.md), then read the [assignment instructions](assignments/README.md).
 
 ## Course rhythm
 
 Most four-hour meetings combine instructor input, discussion of an empirical paper, and project work. Bring the assigned paper and one substantive question to class.
+
+The first three meetings contain the project launch: team formation and data exploration (8 Oct), a data-feasibility check and first descriptive figure (15 Oct), and the three-slide idea pitch (22 Oct).
 
 ## Questions and corrections
 
