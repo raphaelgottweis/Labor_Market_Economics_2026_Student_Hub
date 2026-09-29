@@ -10,3 +10,7 @@ Use a maximum of six slides:
 6. the main unresolved problem or threat.
 
 This is a diagnostic presentation, not a polished rehearsal. Explain what could still make the project infeasible or change the interpretation of your results.
+
+## Format
+
+Seven minutes per team, followed by three minutes of peer/instructor feedback.

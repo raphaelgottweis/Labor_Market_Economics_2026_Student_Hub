@@ -9,4 +9,12 @@ Your team develops one empirical labor-economics project over the semester. Each
 | Final presentation | Communicate a complete empirical argument | [Final presentation](final-presentation.md) |
 | Short paper | Present the argument, evidence, and interpretation in writing | [Short paper](short-paper.md) |
 
-Deadlines, submission format, and assigned discussants are announced on Canvas.
+## Presentation schedule
+
+| Milestone | Date and format |
+|---|---|
+| Idea pitch | 22 October: maximum three slides, five minutes per team. |
+| First project presentation | 10 December: maximum six slides, seven minutes plus three minutes of feedback. |
+| Final presentation | 17 December (nine teams) or 14 January (eight teams): 10 minutes, followed by a three-minute assigned discussant response and two minutes from the floor. |
+
+Team assignments for the two final-conference dates, submission format, and discussant pairings are announced on Canvas.

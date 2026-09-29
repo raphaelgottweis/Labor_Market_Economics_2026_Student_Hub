@@ -33,7 +33,19 @@ Start with the [project roadmap](guides/research-project.md), the [data sources 
 
 Most four-hour meetings combine instructor input, discussion of an empirical paper, and project work. Bring the assigned paper and one substantive question to class.
 
-The first three meetings contain the project launch: team formation and data exploration (8 Oct), a data-feasibility check and first descriptive figure (15 Oct), and the three-slide idea pitch (22 Oct).
+## Project calendar
+
+| Date | What your team must bring or do |
+|---|---|
+| 8 Oct | Form a team, state a first research question, and identify one accessible data source. |
+| 15 Oct | Data-feasibility check: metadata, source link, and one descriptive-figure proposal. |
+| 22 Oct | Three-slide idea pitch; five minutes per team. |
+| 5 Nov | Identification template: treatment, comparison, assumption, and main threat. |
+| 19 Nov | Reproducible data/cleaning plan and first descriptive figure. |
+| 10 Dec | Six-slide intermediate presentation; seven minutes plus feedback. |
+| 17 Dec / 14 Jan | Final conference: 10-minute presentation, 3-minute discussant, 2-minute floor response. |
+
+With 34 students, the course has 17 two-person teams. Idea pitches and intermediate presentations occur in one block; the final conference is split across 17 December (nine teams) and 14 January (eight teams, then the AMS guest discussion).
 
 ## Questions and corrections
 
