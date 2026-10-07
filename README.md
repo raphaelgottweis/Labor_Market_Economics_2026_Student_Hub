@@ -33,19 +33,29 @@ Start with the [project roadmap](guides/research-project.md), the [data sources 
 
 Most four-hour meetings combine instructor input, discussion of an empirical paper, and project work. Bring the assigned paper and one substantive question to class.
 
-## Project calendar
+## Course calendar
 
-| Date | What your team must bring or do |
-|---|---|
-| 8 Oct | Form a team, state a first research question, and identify one accessible data source. |
-| 15 Oct | Data-feasibility check: metadata, source link, and one descriptive-figure proposal. |
-| 22 Oct | Three-slide idea pitch; five minutes per team. |
-| 5 Nov | Identification template: treatment, comparison, assumption, and main threat. |
-| 19 Nov | Reproducible data/cleaning plan and first descriptive figure. |
-| 10 Dec | Six-slide intermediate presentation; seven minutes plus feedback. |
-| 17 Dec / 14 Jan | Final conference: 10-minute presentation, 3-minute discussant, 2-minute floor response. |
+Sessions are 14:00 to 18:00 unless noted. Details and links that involve student data are on Canvas.
 
-With 34 students, the course has 17 two-person teams. Idea pitches and intermediate presentations occur in one block; the final conference is split across 17 December (nine teams) and 14 January (eight teams, then the AMS guest discussion).
+| Date | Topic | What you bring or do |
+|---|---|---|
+| 8 Oct (3h) | Introduction; labor supply; finding a research idea | Find a teammate by topic. Decide whether you want access to the Austrian microcensus. |
+| 15 Oct | Becker; labor demand | Read the four labor demand papers. Idea pitches, first half of the teams: slides due 1 day before. |
+| 22 Oct | Working with LLMs; causal inference | Idea pitches, second half: slides due 1 day before. |
+| 5 Nov | Discrimination | Your group's paper in full; abstract and introduction of the other five. Groups present, 15 + 5 minutes. |
+| 12 Nov | Doing research: Overleaf, writing, giving talks, LLMs for data | Read Shapiro's *Four Steps to an Applied Micro Paper* (3 pages). |
+| 19 Nov | Unemployment and active labor market policy | Read Kasy and Lehner, and Cheung et al.: introduction and main results. |
+| 26 Nov | First presentations, all teams | 5 minutes plus 5 minutes discussion. |
+| 3 Dec | AI and the labor market | Read the introduction and figures of *Canaries in the Coal Mine*. |
+| 10 Dec | No class | Prepare your final presentation. Questions for Dr. Kopf are due 14 Dec. |
+| 17 Dec | Final presentations (10:00 to 14:00 and 14:00 to 19:00) | 20 minutes per team including feedback. Send slides 1 day before. |
+| 14 Jan 2027, 14:00 to 16:00 | Guest discussion with Dr. Johannes Kopf (AMS), in German | Your questions, in the shared sheet by 14 Dec. |
+
+With 34 students, the course has 17 two-person teams. Another team gives feedback on each pitch and presentation.
+
+## Slides
+
+Slides are published per session in [slides](slides/README.md): a **handout** (without answers) before class, and the **full slides** the day after.
 
 ## Questions and corrections
 

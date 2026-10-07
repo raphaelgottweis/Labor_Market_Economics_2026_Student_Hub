@@ -1,6 +1,6 @@
 # Resources and readings
 
-See the [reading plan](reading-plan.md) for the one paper to read in advance for each session and the papers used as in-class evidence or optional extensions.
+See the [reading plan](reading-plan.md) for what to read and by when. To find a research idea and the papers behind it, see [finding ideas and papers](finding-ideas-and-papers.md).
 
 ## Causal inference and empirical research
 

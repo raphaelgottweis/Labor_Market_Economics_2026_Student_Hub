@@ -18,6 +18,15 @@ Start with a source you can open, understand, and cite this week. Save the downl
 | [Martin Halla's micro-data sources](https://sites.google.com/site/mhalla1980/home/econ-stuff?authuser=0) | Discovery index, not a dataset | International | Find a source, then verify it with the provider | Always read the provider's current access and citation rules. |
 | [Pietro Biroli's resources](https://sites.google.com/site/pietrobiroli/resources#h.sb016q218z72) | Curated data and research-resource index, not a dataset | International | Identify a potential public or restricted source and its documentation | Use it to discover sources; verify current access, terms, and citation requirements with the original provider. |
 
+## Austrian Microcensus (apply early)
+
+The Austrian labor force survey (Mikrozensus-Arbeitskräfteerhebung) of Statistics Austria. The [AUSSDA Dataverse](https://data.aussda.at/) holds the years from 2000, and from 2004 also ad-hoc modules on different topics. Earlier years (1970 to 2000) can be sent on request.
+
+1. Create an AUSSDA Dataverse account. Log in with the institutional login: choose **WU (Vienna University of Economics and Business)** and use your normal university password. Access can only be given to people with an account.
+2. Sign the [AUSSDA user agreement for the microcensus](https://aussda.at/fileadmin/user_upload/p_aussda/Documents/AUSSDA_Nutzungsvereinbarung_Mikrozensus.pdf). We apply as a class, with the course as the project.
+3. Enter your row in the shared class sheet (the link is on Canvas): last name, first name, email, AUSSDA Dataverse user ID, project title, short project description, project duration.
+4. AUSSDA asks Statistics Austria for approval. This usually takes a few days. You then download the data yourself.
+
 ## Ask first: instructor-supported data
 
 | Source | Why it is useful | What to do first |

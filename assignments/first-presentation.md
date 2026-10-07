@@ -1,16 +1,13 @@
 # First project presentation
 
-Use a maximum of six slides:
+Present one fixed idea. Show:
 
-1. Research question;
-2. institutional context;
-3. data and sample;
-4. empirical design;
-5. one descriptive result; and
-6. the main unresolved problem or threat.
+1. **One fixed idea:** your research question and why it matters;
+2. **what you tried so far, or what you plan to do:** data, sample, design; and
+3. **where you are:** what works, and the main open problem.
 
 This is a diagnostic presentation, not a polished rehearsal. Explain what could still make the project infeasible or change the interpretation of your results.
 
 ## Format
 
-Seven minutes per team, followed by three minutes of peer/instructor feedback.
+26 November. Five minutes per team, followed by five minutes of discussion. Another team and the instructor give feedback.

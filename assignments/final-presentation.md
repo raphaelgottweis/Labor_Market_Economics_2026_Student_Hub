@@ -14,4 +14,4 @@ Treat the presentation as a research conference: precise, constructive, and evid
 
 ## Format
 
-Ten minutes for the presentation, three minutes for the assigned discussant, and two minutes for audience/instructor response. Nine teams present on 17 December; eight teams present on 14 January before the AMS guest discussion. Team/date and discussant pairings are announced on Canvas.
+17 December, in two blocks (10:00 to 14:00 and 14:00 to 19:00). 20 minutes per team including feedback. Send your slides at least one day before. Team order and discussant pairings are announced on Canvas.
