@@ -55,7 +55,7 @@ With 34 students, the course has 17 two-person teams. Another team gives feedbac
 
 ## Slides
 
-Slides are published per session in [slides](slides/README.md): a **handout** (without answers) before class, and the **full slides** the day after.
+Slides are shared on Canvas, session by session: a **handout** (without answers) before class, and the **full slides** the day after. See [slides](slides/README.md).
 
 ## Questions and corrections
 
