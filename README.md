@@ -40,7 +40,7 @@ Sessions are 14:00 to 18:00 unless noted. Details and links that involve student
 | Date | Topic | What you bring or do |
 |---|---|---|
 | 8 Oct (3h) | Introduction; labor supply and the household (Becker); finding a research idea | Find a teammate by topic. Decide whether you want access to the Austrian microcensus. |
-| 15 Oct | Labor demand and monopsony | Read the four labor demand papers. Idea pitches, first half of the teams: slides due 1 day before. |
+| 15 Oct | Child penalties and remote work; labor demand and monopsony | Read the four labor demand papers. Idea pitches, first half of the teams: slides due 1 day before. |
 | 22 Oct | Working with LLMs; causal inference | Idea pitches, second half: slides due 1 day before. |
 | 5 Nov | Discrimination and pay transparency | Your group's paper in full; abstract and introduction of the other six. Groups present, 15 + 5 minutes. |
 | 12 Nov | Doing research: Overleaf, writing, giving talks, how LLMs work, LLMs for data | Read Shapiro's *Four Steps to an Applied Micro Paper* (3 pages). |

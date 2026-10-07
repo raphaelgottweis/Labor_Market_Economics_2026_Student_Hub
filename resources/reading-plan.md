@@ -11,10 +11,10 @@ Reading rules:
 | Session | When | Paper | Link |
 |---|---|---|---|
 | 8 Oct: labor supply | Background | Acemoglu, Autor, and Lyle (2004), Women, War, and Wages. JPE 112(3) | [link](https://doi.org/10.1086/383100) |
-| 8 Oct: labor supply | Background | Kleven, Landais, and Søgaard (2019), Children and Gender Inequality: Evidence from Denmark. AEJ: Applied 11(4) | [link](https://doi.org/10.1257/app.20180010) |
+| 15 Oct: child penalties | Background | Kleven, Landais, and Søgaard (2019), Children and Gender Inequality: Evidence from Denmark. AEJ: Applied 11(4) | [link](https://doi.org/10.1257/app.20180010) |
 | 8 Oct: labor supply | Background | Imbens, Rubin, and Sacerdote (2001), Estimating the Effect of Unearned Income on Labor Earnings, Savings, and Consumption: Evidence from a Survey of Lottery Players. AER 91(4) | [link](https://doi.org/10.1257/aer.91.4.778) |
 | 8 Oct: labor supply | Background | Eissa and Liebman (1996), Labor Supply Response to the Earned Income Tax Credit. QJE 111(2) | [link](https://doi.org/10.2307/2946689) |
-| 8 Oct: in class | Seen in class | Zarate (2025), Remote Work and Child Penalties. Working paper | [link](https://zaratepablo.github.io/files/RWCP.pdf) |
+| 15 Oct: child penalties | Seen in class | Zarate (2025), Remote Work and Child Penalties. Working paper | [link](https://zaratepablo.github.io/files/RWCP.pdf) |
 | 8 Oct: in class | Seen in class | McFall, Parolin, and Zafar (2025), Career Expectations and Outcomes: Evidence (on Gender Gaps) from the Economics Job Market. Journal of Public Economics 248 | [link](https://www.nber.org/papers/w32446) |
 | 8 Oct: in class | Seen in class | Chuan, List, Samek, and Samujjwala (2022), Parental Investments in Early Childhood and the Gender Gap in Math and Literacy. AEA Papers and Proceedings | [link](https://doi.org/10.1257/pandp.20221036) |
 | 8 Oct: in class | Seen in class | Strömberg, Lei, and Wu (2026), The Generative AI Learning Penalty. SSRN | [link](https://ssrn.com/abstract=6868618) |
