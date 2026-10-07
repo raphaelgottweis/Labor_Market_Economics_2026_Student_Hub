@@ -1,6 +1,6 @@
 # Resources and readings
 
-See the [reading plan](reading-plan.md) for what to read and by when. To find a research idea and the papers behind it, see [finding ideas and papers](finding-ideas-and-papers.md).
+See the [reading plan](reading-plan.md) for every paper with its link, and what to read by when. To find a research idea and the papers behind it, see [finding ideas and papers](finding-ideas-and-papers.md).
 
 ## Causal inference and empirical research
 

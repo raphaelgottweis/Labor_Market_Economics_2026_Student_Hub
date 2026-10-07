@@ -39,11 +39,11 @@ Sessions are 14:00 to 18:00 unless noted. Details and links that involve student
 
 | Date | Topic | What you bring or do |
 |---|---|---|
-| 8 Oct (3h) | Introduction; labor supply; finding a research idea | Find a teammate by topic. Decide whether you want access to the Austrian microcensus. |
-| 15 Oct | Becker; labor demand | Read the four labor demand papers. Idea pitches, first half of the teams: slides due 1 day before. |
+| 8 Oct (3h) | Introduction; labor supply and the household (Becker); finding a research idea | Find a teammate by topic. Decide whether you want access to the Austrian microcensus. |
+| 15 Oct | Labor demand and monopsony | Read the four labor demand papers. Idea pitches, first half of the teams: slides due 1 day before. |
 | 22 Oct | Working with LLMs; causal inference | Idea pitches, second half: slides due 1 day before. |
-| 5 Nov | Discrimination | Your group's paper in full; abstract and introduction of the other five. Groups present, 15 + 5 minutes. |
-| 12 Nov | Doing research: Overleaf, writing, giving talks, LLMs for data | Read Shapiro's *Four Steps to an Applied Micro Paper* (3 pages). |
+| 5 Nov | Discrimination and pay transparency | Your group's paper in full; abstract and introduction of the other six. Groups present, 15 + 5 minutes. |
+| 12 Nov | Doing research: Overleaf, writing, giving talks, how LLMs work, LLMs for data | Read Shapiro's *Four Steps to an Applied Micro Paper* (3 pages). |
 | 19 Nov | Unemployment and active labor market policy | Read Kasy and Lehner, and Cheung et al.: introduction and main results. |
 | 26 Nov | First presentations, all teams | 5 minutes plus 5 minutes discussion. |
 | 3 Dec | AI and the labor market | Read the introduction and figures of *Canaries in the Coal Mine*. |
