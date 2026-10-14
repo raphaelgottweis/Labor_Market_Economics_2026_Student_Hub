@@ -24,7 +24,7 @@ Reading rules:
 | 15 Oct: labor demand | Read before class | Hamermesh and Trejo (2000), The Demand for Hours of Labor: Direct Evidence from California. REStat 82(1) | [link](https://doi.org/10.1162/003465300558614) |
 | 15 Oct: labor demand | Read before class | Clemens, Lewis, and Postel (2018), Immigration Restrictions as Active Labor Market Policy: Evidence from the Mexican Bracero Exclusion. AER 108(6) | [link](https://doi.org/10.1257/aer.20170765) |
 | 15 Oct: labor demand | Read before class | Feigenbaum and Gross (2024), Answering the Call of Automation: How the Labor Market Adjusted to Mechanizing Telephone Operation. QJE 139(3) | [link](https://doi.org/10.1093/qje/qjae005) |
-| 15 Oct: monopsony | Background | Azar, Marinescu, and Steinbaum (2022), Labor Market Concentration. Journal of Human Resources 57(S) | [link](https://doi.org/10.3368/jhr.monopsony.1218-9914r1) |
+| 3 Dec: monopsony | Background | Azar, Marinescu, and Steinbaum (2022), Labor Market Concentration. Journal of Human Resources 57(S) | [link](https://doi.org/10.3368/jhr.monopsony.1218-9914r1) |
 | 22 Oct: causal inference | Optional | Cunningham, Causal Inference: The Mixtape | [link](https://mixtape.scunning.com/) |
 | 22 Oct: causal inference | Optional | Baker, Callaway, Cunningham, Goodman-Bacon, and Sant'Anna (2026), Difference-in-Differences Designs: A Practitioner's Guide. JEL 64(2) | [link](https://doi.org/10.1257/jel.20251650) |
 | 5 Nov: discrimination | Your group's paper in full; others: abstract and introduction | Bursztyn, González, and Yanagizawa-Drott (2020), Misperceived Social Norms: Women Working Outside the Home in Saudi Arabia. AER 110(10) | [link](https://doi.org/10.1257/aer.20180975) |
