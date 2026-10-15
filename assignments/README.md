@@ -17,4 +17,4 @@ Your team develops one empirical labor-economics project over the semester. Each
 | First project presentation | 26 November: five minutes plus five minutes discussion. |
 | Final presentation | 17 December: 20 minutes per team including feedback. Slides due 1 day before. |
 
-Another team gives feedback on each presentation. Team order, discussant pairings, and submission format are announced on Canvas.
+Another team gives feedback on the first and final presentations; for the idea pitch, the instructor and the class give feedback. Team order, discussant pairings, and submission format are announced on Canvas.

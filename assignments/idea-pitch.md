@@ -10,4 +10,4 @@ End with one question on which you want feedback. Avoid a literature-review slid
 
 ## Format
 
-Five minutes per team, on 15 or 22 October. Send your slides at least one day before, and name the team you want as discussant. Another team and the instructor give feedback.
+Five minutes per team, on 15 or 22 October. Send your slides at least one day before. The instructor and the class give feedback.
