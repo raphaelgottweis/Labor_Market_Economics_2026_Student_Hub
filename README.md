@@ -39,15 +39,15 @@ Sessions are 14:00 to 18:00 unless noted. Details and links that involve student
 
 | Date | Topic | What you bring or do |
 |---|---|---|
-| 8 Oct (3h) | Introduction; labor supply and the household (Becker); finding a research idea | Find a teammate by topic. Decide whether you want access to the Austrian microcensus. |
-| 15 Oct | Child penalties and remote work; labor demand | Read the four labor demand papers. Idea pitches, first half of the teams: slides due 1 day before. |
-| 22 Oct | Working with LLMs; causal inference | Idea pitches, second half: slides due 1 day before. |
-| 5 Nov | Discrimination and pay transparency | Your group's paper in full; abstract and introduction of the other six. Groups present, 15 + 5 minutes. |
-| 12 Nov | Doing research: Overleaf, writing, giving talks, how LLMs work, LLMs for data; project lab | Read Shapiro's *Four Steps to an Applied Micro Paper* (3 pages). Bring your laptop and the data source from your pitch. |
-| 19 Nov | Unemployment and active labor market policy | Read Kasy and Lehner, and Cheung et al.: introduction and main results. |
+| 8 Oct (3h) | Introduction; labor supply and the household (Becker); finding a research idea | Find a teammate by topic. |
+| 15 Oct | Labor supply: empirical evidence | Idea pitches, first half of the teams: slides due 1 day before. |
+| 22 Oct | Women, war, and wages; child penalties; working with LLMs | Idea pitches, second half. Read the four labor demand papers by 5 Nov. |
+| 5 Nov | Labor demand; research designs; project lab | Bring your laptop and the data source from your pitch. Read Shapiro's *Four Steps to an Applied Micro Paper* (3 pages). |
+| 12 Nov | No class | Work with your data. |
+| 19 Nov | Discrimination and pay transparency | Your group's paper in full; abstract and introduction of the other six. Groups present, 15 + 5 minutes. |
 | 26 Nov | First presentations, all teams | 5 minutes plus 5 minutes discussion. |
-| 3 Dec | AI and the labor market, monopsony | Read the introduction and figures of *Canaries in the Coal Mine*. |
-| 10 Dec | No class | Prepare your final presentation. Questions for Dr. Kopf are due 14 Dec. |
+| 3 Dec | Unemployment and active labor market policy | Read Kasy and Lehner, and Cheung et al.: introduction and main results. |
+| 10 Dec | AI and the labor market; project clinic | Read the introduction and figures of *Canaries in the Coal Mine*. Questions for Dr. Kopf are due 14 Dec. |
 | 17 Dec | Final presentations (10:00 to 14:00 and 14:00 to 19:00) | 20 minutes per team including feedback. Send slides 1 day before. |
 | 14 Jan 2027, 14:00 to 16:00 | Guest discussion with Dr. Johannes Kopf (AMS), in German | Your questions, in the shared sheet by 14 Dec. |
 
