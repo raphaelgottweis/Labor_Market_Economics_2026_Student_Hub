@@ -22,7 +22,6 @@ Reading rules:
 | 8 Oct: in class | Seen in class | Autor et al. (2026), Does AI Assistance Enhance or Erode Expertise? NBER Working Paper 35720 | [link](https://www.nber.org/system/files/working_papers/w35720/w35720.pdf) |
 | 5 Nov: labor demand | Read before class | Angrist (1996), Short-Run Demand for Palestinian Labor. JOLE 14(3) | [link](https://doi.org/10.1086/209817) |
 | 5 Nov: labor demand | Read before class | Hamermesh and Trejo (2000), The Demand for Hours of Labor: Direct Evidence from California. REStat 82(1) | [link](https://doi.org/10.1162/003465300558614) |
-| 5 Nov: labor demand | Read before class | Clemens, Lewis, and Postel (2018), Immigration Restrictions as Active Labor Market Policy: Evidence from the Mexican Bracero Exclusion. AER 108(6) | [link](https://doi.org/10.1257/aer.20170765) |
 | 5 Nov: labor demand | Read before class | Feigenbaum and Gross (2024), Answering the Call of Automation: How the Labor Market Adjusted to Mechanizing Telephone Operation. QJE 139(3) | [link](https://doi.org/10.1093/qje/qjae005) |
 | 10 Dec: monopsony | Background | Azar, Marinescu, and Steinbaum (2022), Labor Market Concentration. Journal of Human Resources 57(S) | [link](https://doi.org/10.3368/jhr.monopsony.1218-9914r1) |
 | 22 Oct: causal inference | Optional | Cunningham, Causal Inference: The Mixtape | [link](https://mixtape.scunning.com/) |

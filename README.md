@@ -41,9 +41,9 @@ Sessions are 14:00 to 18:00 unless noted. Details and links that involve student
 |---|---|---|
 | 8 Oct (3h) | Introduction; labor supply and the household (Becker); finding a research idea | Find a teammate by topic. |
 | 15 Oct | Labor supply: empirical evidence | Idea pitches, first half of the teams: slides due 1 day before. |
-| 22 Oct | Women, war, and wages; child penalties; working with LLMs | Idea pitches, second half. Read the four labor demand papers by 5 Nov. |
+| 22 Oct | Women, war, and wages; child penalties; working with LLMs | Idea pitches, second half. Read the three labor demand papers by 5 Nov. 29 Oct: no class, work on your project and data. |
 | 5 Nov | Labor demand; research designs; project lab | Bring your laptop and the data source from your pitch. Read Shapiro's *Four Steps to an Applied Micro Paper* (3 pages). |
-| 12 Nov | No class | Work with your data. |
+| 12 Nov | No class | Work on your paper and data. Think about your question for Dr. Kopf and listen to the podcast "Geht so. Passt schon. Oder?". |
 | 19 Nov | Discrimination and pay transparency | Your group's paper in full; abstract and introduction of the other six. Groups present, 15 + 5 minutes. |
 | 26 Nov | First presentations, all teams | 5 minutes plus 5 minutes discussion. |
 | 3 Dec | Unemployment and active labor market policy | Read Kasy and Lehner, and Cheung et al.: introduction and main results. |
