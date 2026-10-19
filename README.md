@@ -47,7 +47,7 @@ Sessions are 14:00 to 18:00 unless noted. Details and links that involve student
 | 19 Nov | Discrimination and pay transparency | Your group's paper in full; abstract and introduction of the other six. Groups present, 15 + 5 minutes. |
 | 26 Nov | First presentations, all teams | 5 minutes plus 5 minutes discussion. |
 | 3 Dec | Unemployment and active labor market policy | Read Kasy and Lehner, and Cheung et al.: introduction and main results. |
-| 10 Dec | AI and the labor market; project clinic | Read the introduction and figures of *Canaries in the Coal Mine*. Questions for Dr. Kopf are due 14 Dec. |
+| 10 Dec | AI and the labor market; prepare for Dr. Kopf (policy proposals and your questions) | Read the introduction and figures of *Canaries in the Coal Mine*. Questions for Dr. Kopf are due 14 Dec. |
 | 17 Dec | Final presentations (10:00 to 14:00 and 14:00 to 19:00) | 20 minutes per team including feedback. Send slides 1 day before. |
 | 14 Jan 2027, 14:00 to 16:00 | Guest discussion with Dr. Johannes Kopf (AMS), in German | Your questions, in the shared sheet by 14 Dec. |
 
